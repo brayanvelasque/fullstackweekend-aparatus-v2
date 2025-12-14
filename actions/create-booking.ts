@@ -6,6 +6,7 @@ import { auth } from "@/lib/auth";
 import { headers } from "next/headers";
 import { returnValidationErrors } from "next-safe-action";
 import { prisma } from "@/lib/prisma";
+import { isPast } from "date-fns";
 
 // This schema is used to validate input from client.
 const inputSchema = z.object({
@@ -16,6 +17,11 @@ const inputSchema = z.object({
 export const createBooking = actionClient
   .inputSchema(inputSchema)
   .action(async ({ parsedInput: { serviceId, date } }) => {
+    if (isPast(date)) {
+      returnValidationErrors(inputSchema, {
+        _errors: ["Data e hora selecionadas já passaram."],
+      });
+    }
     const session = await auth.api.getSession({
       headers: await headers(),
     });
